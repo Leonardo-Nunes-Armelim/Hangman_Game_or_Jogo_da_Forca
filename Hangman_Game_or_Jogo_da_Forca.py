@@ -14,9 +14,9 @@ pg.font.init()
 fonte = pg.font.SysFont("Courier New", 50)
 fonte_rb = pg.font.SysFont("Courier New", 30)
 
-palavras = [#'PARALELEPIPEDO',
-            #'ORNITORINCO',
-            #'APARTAMENTO',
+palavras = ['PARALELEPIPEDO',
+            'ORNITORINCO',
+            'APARTAMENTO',
             'XICARA DE CHA']
 
 tentativas_de_letras = [' ', '-']
